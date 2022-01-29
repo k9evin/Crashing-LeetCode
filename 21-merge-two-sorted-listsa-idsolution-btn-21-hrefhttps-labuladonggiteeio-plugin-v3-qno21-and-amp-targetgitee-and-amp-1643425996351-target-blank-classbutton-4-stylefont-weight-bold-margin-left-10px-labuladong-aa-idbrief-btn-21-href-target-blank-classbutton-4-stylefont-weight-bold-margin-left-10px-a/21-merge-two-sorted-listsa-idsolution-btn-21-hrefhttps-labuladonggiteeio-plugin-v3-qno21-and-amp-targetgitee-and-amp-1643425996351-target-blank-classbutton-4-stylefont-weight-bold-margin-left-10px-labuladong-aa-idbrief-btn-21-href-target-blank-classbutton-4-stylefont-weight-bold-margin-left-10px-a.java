@@ -10,8 +10,11 @@
  */
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
+        // Create a dummy node for the return list
         ListNode dummy = new ListNode(-1);
+        // p is the current node
         ListNode p = dummy;
+        // Create two pointers for list1 and list2
         ListNode p1 = list1, p2 = list2;
         
         while (p1 != null && p2 != null) {
@@ -24,6 +27,7 @@ class Solution {
             }
             p = p.next;
         }
+        // When two lists have diff length, set p.next to the remaining list
         if (p1 == null) {
             p.next = p2;
         }
