@@ -28,3 +28,4 @@ class Solution:
 		# Solution 3:
         # Time complexity: O()
         # Space complexity: O()
+        # return [num for num, freq in Counter(nums).most_common(k)]
