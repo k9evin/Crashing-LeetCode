@@ -27,12 +27,3 @@ class Solution:
                            nums[left] == nums[left - 1]):
                         left += 1
         return answ
-            
-		
-		# Solution 2:
-        # Time complexity: O()
-        # Space complexity: O()
-		
-		# Solution 3:
-        # Time complexity: O()
-        # Space complexity: O()
