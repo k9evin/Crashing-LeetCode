@@ -1,2 +1,2 @@
 # Crashing-LeetCode
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace the coding interview!
