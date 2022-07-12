@@ -15,8 +15,8 @@ class Solution:
         # return res
 		
 		# Solution 2:
-        # Time complexity: O()
-        # Space complexity: O()
+        # Time complexity: O(n)
+        # Space complexity: O(n)
         l = 0
         res = 0
         max_freq = 0
