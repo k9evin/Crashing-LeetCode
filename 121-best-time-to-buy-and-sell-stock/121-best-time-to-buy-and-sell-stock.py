@@ -6,7 +6,8 @@ class Solution:
         l, r, ans = 0, 1, 0
         while r < len(prices):
             if prices[l] < prices[r]:
-                ans = max((prices[r] - prices[l]), ans)
+                profit = prices[r] - prices[l]
+                ans = max(profit, ans)
             # if prices[r] < prices[l] we should buy 
             # stock on the lowest day
             else:
