@@ -17,11 +17,3 @@ class Solution:
                 res.append(nums[d[0]])
                 l += 1
         return res 
-		
-		# Solution 2:
-        # Time complexity: O()
-        # Space complexity: O()
-		
-		# Solution 3:
-        # Time complexity: O()
-        # Space complexity: O()
