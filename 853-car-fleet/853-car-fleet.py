@@ -1,7 +1,7 @@
 class Solution:
     def carFleet(self, target: int, position: List[int], speed: List[int]) -> int:
         # Solution 1:
-        # Time complexity: O(n)
+        # Time complexity: O(nlogn)
         # Space complexity: O(n)
         stack = []
         
