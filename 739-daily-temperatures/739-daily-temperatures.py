@@ -14,33 +14,33 @@ class Solution:
 		# Solution 2:
         # Time complexity: O(n)
         # Space complexity: O(n)
-#         stack = []
-#         n = len(temperatures)
-#         res = [0] * n
+        stack = []
+        n = len(temperatures)
+        res = [0] * n
         
-#         # monotonic decreasing stack
-#         for r in range(n):
-#             # compare the current element with the top 
-#             # element in the stack
-#             while stack and temperatures[r] > temperatures[stack[-1]]:
-#                 # the index of the top element
-#                 l = stack.pop()
-#                 # number of days to wait
-#                 res[l] = r - l
-#             # once we've compared the prev element, append the curr
-#             # element to the stack
-#             stack.append(r)
-#         return res
+        # monotonic decreasing stack
+        for r in range(n):
+            # compare the current element with the top 
+            # element in the stack
+            while stack and temperatures[r] > temperatures[stack[-1]]:
+                # the index of the top element
+                l = stack.pop()
+                # number of days to wait
+                res[l] = r - l
+            # once we've compared the prev element, append the curr
+            # element to the stack
+            stack.append(r)
+        return res
 		
 		# Solution 3:
         # Time complexity: O(n)
         # Space complexity: O(n)
-        res = [0] * len(temperatures)
-        stack = [] # pair: [temp, index]
+#         res = [0] * len(temperatures)
+#         stack = [] # pair: [temp, index]
         
-        for i, t in enumerate(temperatures):
-            while stack and t > stack[-1][0]:
-                stackT, stackInd = stack.pop()
-                res[stackInd] = (i - stackInd)
-            stack.append([t, i])
-        return res
+#         for i, t in enumerate(temperatures):
+#             while stack and t > stack[-1][0]:
+#                 stackT, stackInd = stack.pop()
+#                 res[stackInd] = (i - stackInd)
+#             stack.append([t, i])
+#         return res
