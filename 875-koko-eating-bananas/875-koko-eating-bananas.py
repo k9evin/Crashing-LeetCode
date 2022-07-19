@@ -1,7 +1,7 @@
 class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
         # Solution 1:
-        # Time complexity: O(max(p) * logp)
+        # Time complexity: O(n * logm)
         # Space complexity: O(1)
         
         # piles = [3,6,7,11], h = 8
@@ -13,7 +13,7 @@ class Solution:
             m = (l + r) // 2
             totalH = 0
             for p in piles:
-                # equivalent to math.ceil(p // m) and ((p - 1) // m) + 1
+                # equivalent to math.ceil(p / m) and (p + m - 1) / m
                 totalH += -(p // -m)
             # 如果总时间比h短，那么猴子可以吃慢点
             if totalH <= h:
