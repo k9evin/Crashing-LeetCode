@@ -12,9 +12,6 @@ class TimeMap:
         self.dict[key].append([value, timestamp])
 
     def get(self, key: str, timestamp: int) -> str:
-        # return "" if key is not in the dictionary
-        if key not in self.dict:
-            return ""
         # use the key to find the corresponding array
         array = self.dict[key]
         l, r = 0, len(array) - 1
