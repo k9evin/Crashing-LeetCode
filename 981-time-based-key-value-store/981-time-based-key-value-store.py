@@ -23,7 +23,9 @@ class TimeMap:
             # if time is smaller than the timestamp,
             # which means the value is valid, update
             # the res variable
-            if time <= timestamp:
+            if time == timestamp:
+                return array[m][0]
+            elif time < timestamp:
                 res = array[m][0]
                 l = m + 1
             else:
