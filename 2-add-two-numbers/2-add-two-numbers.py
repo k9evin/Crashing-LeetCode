@@ -13,7 +13,7 @@ class Solution:
         p = dummy
         
         carry = 0
-        while p1 or p2 or carry > 0:
+        while p1 or p2 or carry:
             value = carry
             
             if p1:
