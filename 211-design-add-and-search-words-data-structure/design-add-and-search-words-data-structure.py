@@ -22,6 +22,10 @@ class WordDictionary:
     def search(self, word: str) -> bool:
         def dfs(index: int, root: TrieNode) -> bool:
             curr = root
+            if not curr:
+                return False
+            if index == len(word):
+                return curr.isEnd
             for i in range(index, len(word)):
                 c = word[i]
                 if c == '.':
