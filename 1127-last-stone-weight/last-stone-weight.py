@@ -7,4 +7,4 @@ class Solution:
             x = heapq.heappop(heap)
             if x != y:
                 heapq.heappush(heap, y - x)
-        return -1 * heap[0] if len(heap) > 0 else 0
+        return -1 * heap[0] if heap else 0
