@@ -1,14 +1,13 @@
 class Solution:
     def kthGrammar(self, n: int, k: int) -> int:
-        curr = 0
-        l, r = 1, 2**(n - 1)
+        # base case
+        if n == 1:
+            return 0
+            
+        # if k is odd, then k is the same number as its parent
+        if k % 2 != 0:
+            return self.kthGrammar(n - 1, (k + 1) // 2)
+        # if k is even, then k is the opposite number of its parent
+        else:
+            return 1 - self.kthGrammar(n - 1, (k + 1) // 2)
 
-        for _ in range(n - 1):
-            m = (l + r) // 2
-            if k <= m:
-                r = m
-            else:
-                l = m + 1
-                curr = 1 if curr == 0 else 0
-
-        return curr
