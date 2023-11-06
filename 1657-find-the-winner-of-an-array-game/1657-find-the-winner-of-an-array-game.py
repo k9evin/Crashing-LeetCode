@@ -3,12 +3,14 @@ class Solution:
         curr_winner = arr[0]
         win = 0
 
-        for i in range(1, len(arr)):
-            if arr[i] > curr_winner:
-                curr_winner = arr[i]
+        for n in arr[1:]:
+            if n > curr_winner:
+                curr_winner = n
                 win = 0
+
             win += 1
+            
             if win == k:
                 break
-                
+
         return curr_winner
