@@ -1,32 +1,25 @@
 class Solution:
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
-        n = len(nums1)
-        m = len(nums2)
-        i = 0
-        j = 0
-        m1 = 0
-        m2 = 0
+        m, n = len(nums1), len(nums2)
+        p1, p2 = 0, 0
 
-        # Find median.
-        for count in range(0, (n + m) // 2 + 1):
-            m2 = m1
-            if i < n and j < m:
-                if nums1[i] > nums2[j]:
-                    m1 = nums2[j]
-                    j += 1
-                else:
-                    m1 = nums1[i]
-                    i += 1
-            elif i < n:
-                m1 = nums1[i]
-                i += 1
+        merged = []
+
+        while p1 < m and p2 < n:
+            if nums1[p1] < nums2[p2]:
+                merged.append(nums1[p1])
+                p1 += 1
             else:
-                m1 = nums2[j]
-                j += 1
+                merged.append(nums2[p2])
+                p2 += 1
+        while p1 < m:
+            merged.append(nums1[p1])
+            p1 += 1
+        while p2 < n:
+            merged.append(nums2[p2])
+            p2 += 1
 
-        # Check if the sum of n and m is odd.
-        if (n + m) % 2 == 1:
-            return float(m1)
+        if len(merged) % 2 == 0:
+            return (merged[len(merged) // 2] + merged[len(merged) // 2 - 1]) / 2
         else:
-            ans = float(m1) + float(m2)
-            return ans / 2.0
+            return merged[len(merged) // 2]
