@@ -8,6 +8,7 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/k9evin/Crashing-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0079-word-search](https://github.com/k9evin/Crashing-LeetCode/tree/master/0079-word-search) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/k9evin/Crashing-LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1306-minimum-absolute-difference](https://github.com/k9evin/Crashing-LeetCode/tree/master/1306-minimum-absolute-difference) |
 ## Binary Search
 |  |
@@ -39,4 +40,8 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/k9evin/Crashing-LeetCode/tree/master/0242-valid-anagram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/k9evin/Crashing-LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 <!---LeetCode Topics End-->
