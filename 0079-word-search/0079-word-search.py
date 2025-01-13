@@ -1,39 +1,59 @@
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
-        m, n = len(board), len(board[0])
+        """
+        Algorithm:
+        - Perform a Depth-First Search (DFS) for each cell in the board to find the first character of the word.
+        - If a match is found, recursively search for the next character in the four possible directions.
+        - Use backtracking by marking visited cells to avoid reusing characters.
+        - Unmark the visited cells after exploring all paths.
 
-        def dfs(r, c, i):
-            # If we reach the length of the word, we find the word
-            if i == len(word):
+        Time Complexity: O(m * n * 4^L), where m and n are the dimensions of the board, and L is the length of the word.
+                         Each cell is visited, and for each cell, we explore up to 4 directions up to the length of the word.
+        Space Complexity: O(L), where L is the length of the word, for the recursion stack.
+        """
+
+        rows, cols = len(board), len(board[0])  # Dimensions of the board
+
+        def dfs(row: int, col: int, index: int) -> bool:
+            """
+            Depth-First Search to check if the word can be formed starting from (row, col).
+            """
+            # Base case: All characters in the word are found
+            if index == len(word):
                 return True
-            # Check for boundry, repeated character, and if the current
-            # character is what we are looking for
+
+            # Out of bounds, mismatched character, or already visited
             if (
-                r < 0
-                or r >= m
-                or c < 0
-                or c >= n
-                or board[r][c] != word[i]
-                or board[r][c] == "#"
+                row < 0
+                or row >= rows
+                or col < 0
+                or col >= cols
+                or board[row][col] != word[index]
+                or board[row][col] == "#"
             ):
                 return False
 
-            # Mark the current character as visited
-            board[r][c] = "#"
-            # Check if we can find the remaining character from here
-            res = (
-                dfs(r + 1, c, i + 1)
-                or dfs(r - 1, c, i + 1)
-                or dfs(r, c + 1, i + 1)
-                or dfs(r, c - 1, i + 1)
-            )
-            # Unmark the current character to its original
-            board[r][c] = word[i]
-            return res
+            # Mark the current cell as visited
+            original_char = board[row][col]
+            board[row][col] = "#"
 
-        for r in range(m):
-            for c in range(n):
-                # If dfs(r, c, 0) returns true, we have the whole word in board
-                if dfs(r, c, 0):
+            # Explore all 4 possible directions
+            found = (
+                dfs(row + 1, col, index + 1)  # Down
+                or dfs(row - 1, col, index + 1)  # Up
+                or dfs(row, col + 1, index + 1)  # Right
+                or dfs(row, col - 1, index + 1)  # Left
+            )
+
+            # Backtrack: Restore the original character
+            board[row][col] = original_char
+
+            return found
+
+        # Try to find the word starting from each cell in the board
+        for row in range(rows):
+            for col in range(cols):
+                if dfs(row, col, 0):  # Start DFS from this cell
                     return True
-        return False
+
+        return False  # Return false if no match is found
