@@ -55,6 +55,7 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/k9evin/Crashing-LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/k9evin/Crashing-LeetCode/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
