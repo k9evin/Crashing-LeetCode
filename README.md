@@ -11,6 +11,7 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 | [0200-number-of-islands](https://github.com/k9evin/Crashing-LeetCode/tree/master/0200-number-of-islands) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/k9evin/Crashing-LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1306-minimum-absolute-difference](https://github.com/k9evin/Crashing-LeetCode/tree/master/1306-minimum-absolute-difference) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/k9evin/Crashing-LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
 | ------- |
