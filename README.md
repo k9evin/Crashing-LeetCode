@@ -30,6 +30,7 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/k9evin/Crashing-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0079-word-search](https://github.com/k9evin/Crashing-LeetCode/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/k9evin/Crashing-LeetCode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/k9evin/Crashing-LeetCode/tree/master/0242-valid-anagram) |
 ## Backtracking
 |  |
@@ -43,6 +44,7 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/k9evin/Crashing-LeetCode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/k9evin/Crashing-LeetCode/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
@@ -61,6 +63,7 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/k9evin/Crashing-LeetCode/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/k9evin/Crashing-LeetCode/tree/master/0200-number-of-islands) |
 ## Union Find
 |  |
