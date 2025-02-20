@@ -69,4 +69,8 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/k9evin/Crashing-LeetCode/tree/master/0200-number-of-islands) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/k9evin/Crashing-LeetCode/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
