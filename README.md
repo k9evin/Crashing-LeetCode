@@ -7,6 +7,7 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/k9evin/Crashing-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/k9evin/Crashing-LeetCode/tree/master/0015-3sum) |
 | [0079-word-search](https://github.com/k9evin/Crashing-LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/k9evin/Crashing-LeetCode/tree/master/0200-number-of-islands) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/k9evin/Crashing-LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -23,6 +24,7 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/k9evin/Crashing-LeetCode/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/k9evin/Crashing-LeetCode/tree/master/0242-valid-anagram) |
 | [1306-minimum-absolute-difference](https://github.com/k9evin/Crashing-LeetCode/tree/master/1306-minimum-absolute-difference) |
 ## String
@@ -55,6 +57,7 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/k9evin/Crashing-LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/k9evin/Crashing-LeetCode/tree/master/0015-3sum) |
 ## Depth-First Search
 |  |
 | ------- |
