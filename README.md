@@ -8,6 +8,7 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/k9evin/Crashing-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/k9evin/Crashing-LeetCode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/k9evin/Crashing-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0079-word-search](https://github.com/k9evin/Crashing-LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/k9evin/Crashing-LeetCode/tree/master/0200-number-of-islands) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/k9evin/Crashing-LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -52,12 +53,14 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/k9evin/Crashing-LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/k9evin/Crashing-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/k9evin/Crashing-LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/k9evin/Crashing-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/k9evin/Crashing-LeetCode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/k9evin/Crashing-LeetCode/tree/master/0042-trapping-rain-water) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -76,4 +79,12 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/k9evin/Crashing-LeetCode/tree/master/0092-reverse-linked-list-ii) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/k9evin/Crashing-LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/k9evin/Crashing-LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
