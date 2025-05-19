@@ -7,6 +7,7 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/k9evin/Crashing-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/k9evin/Crashing-LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/k9evin/Crashing-LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/k9evin/Crashing-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0079-word-search](https://github.com/k9evin/Crashing-LeetCode/tree/master/0079-word-search) |
@@ -59,6 +60,7 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/k9evin/Crashing-LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/k9evin/Crashing-LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/k9evin/Crashing-LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/k9evin/Crashing-LeetCode/tree/master/0042-trapping-rain-water) |
 ## Depth-First Search
@@ -87,4 +89,8 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/k9evin/Crashing-LeetCode/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/k9evin/Crashing-LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
