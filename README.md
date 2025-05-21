@@ -13,6 +13,7 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 | [0079-word-search](https://github.com/k9evin/Crashing-LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/k9evin/Crashing-LeetCode/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/k9evin/Crashing-LeetCode/tree/master/0268-missing-number) |
+| [0271-encode-and-decode-strings](https://github.com/k9evin/Crashing-LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/k9evin/Crashing-LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1306-minimum-absolute-difference](https://github.com/k9evin/Crashing-LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/k9evin/Crashing-LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -39,6 +40,7 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 | [0079-word-search](https://github.com/k9evin/Crashing-LeetCode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/k9evin/Crashing-LeetCode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/k9evin/Crashing-LeetCode/tree/master/0242-valid-anagram) |
+| [0271-encode-and-decode-strings](https://github.com/k9evin/Crashing-LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0647-palindromic-substrings](https://github.com/k9evin/Crashing-LeetCode/tree/master/0647-palindromic-substrings) |
 ## Backtracking
 |  |
@@ -118,4 +120,8 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/k9evin/Crashing-LeetCode/tree/master/0133-clone-graph) |
+## Design
+|  |
+| ------- |
+| [0271-encode-and-decode-strings](https://github.com/k9evin/Crashing-LeetCode/tree/master/0271-encode-and-decode-strings) |
 <!---LeetCode Topics End-->
