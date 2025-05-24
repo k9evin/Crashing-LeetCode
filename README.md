@@ -81,16 +81,19 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 | [0079-word-search](https://github.com/k9evin/Crashing-LeetCode/tree/master/0079-word-search) |
 | [0133-clone-graph](https://github.com/k9evin/Crashing-LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/k9evin/Crashing-LeetCode/tree/master/0200-number-of-islands) |
+| [0261-graph-valid-tree](https://github.com/k9evin/Crashing-LeetCode/tree/master/0261-graph-valid-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/k9evin/Crashing-LeetCode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/k9evin/Crashing-LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/k9evin/Crashing-LeetCode/tree/master/0200-number-of-islands) |
+| [0261-graph-valid-tree](https://github.com/k9evin/Crashing-LeetCode/tree/master/0261-graph-valid-tree) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/k9evin/Crashing-LeetCode/tree/master/0200-number-of-islands) |
+| [0261-graph-valid-tree](https://github.com/k9evin/Crashing-LeetCode/tree/master/0261-graph-valid-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -120,6 +123,7 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/k9evin/Crashing-LeetCode/tree/master/0133-clone-graph) |
+| [0261-graph-valid-tree](https://github.com/k9evin/Crashing-LeetCode/tree/master/0261-graph-valid-tree) |
 ## Design
 |  |
 | ------- |
