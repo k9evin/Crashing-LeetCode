@@ -22,6 +22,7 @@ var validTree = function (n, edges) {
         }
         visited.add(node);
         for (const neighbor of adj[node]) {
+            // Undirected graph, skip parent to prevent false positive cycle
             if (neighbor === parent) {
                 continue;
             }
@@ -32,5 +33,6 @@ var validTree = function (n, edges) {
         return true;
     }
 
+    // Check len(visited) == n to detect loop
     return dfs(0, -1) && visited.size === n;
 };
