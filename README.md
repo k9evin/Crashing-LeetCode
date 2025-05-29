@@ -47,6 +47,7 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 | [0005-longest-palindromic-substring](https://github.com/k9evin/Crashing-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/k9evin/Crashing-LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/k9evin/Crashing-LeetCode/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/k9evin/Crashing-LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/k9evin/Crashing-LeetCode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/k9evin/Crashing-LeetCode/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/k9evin/Crashing-LeetCode/tree/master/0271-encode-and-decode-strings) |
@@ -85,6 +86,7 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 | [0011-container-with-most-water](https://github.com/k9evin/Crashing-LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/k9evin/Crashing-LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/k9evin/Crashing-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/k9evin/Crashing-LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/k9evin/Crashing-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0647-palindromic-substrings](https://github.com/k9evin/Crashing-LeetCode/tree/master/0647-palindromic-substrings) |
 ## Depth-First Search
