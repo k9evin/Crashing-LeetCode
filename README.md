@@ -10,6 +10,7 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 | [0011-container-with-most-water](https://github.com/k9evin/Crashing-LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/k9evin/Crashing-LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/k9evin/Crashing-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/k9evin/Crashing-LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/k9evin/Crashing-LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/k9evin/Crashing-LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/k9evin/Crashing-LeetCode/tree/master/0217-contains-duplicate) |
@@ -31,6 +32,7 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 |  |
 | ------- |
 | [0015-3sum](https://github.com/k9evin/Crashing-LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/k9evin/Crashing-LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/k9evin/Crashing-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/k9evin/Crashing-LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/k9evin/Crashing-LeetCode/tree/master/0268-missing-number) |
@@ -39,6 +41,7 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/k9evin/Crashing-LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/k9evin/Crashing-LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/k9evin/Crashing-LeetCode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/k9evin/Crashing-LeetCode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/k9evin/Crashing-LeetCode/tree/master/0242-valid-anagram) |
@@ -56,6 +59,7 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/k9evin/Crashing-LeetCode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/k9evin/Crashing-LeetCode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/k9evin/Crashing-LeetCode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/k9evin/Crashing-LeetCode/tree/master/0141-linked-list-cycle) |
