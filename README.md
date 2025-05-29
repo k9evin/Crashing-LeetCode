@@ -16,6 +16,7 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 | [0217-contains-duplicate](https://github.com/k9evin/Crashing-LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/k9evin/Crashing-LeetCode/tree/master/0268-missing-number) |
 | [0271-encode-and-decode-strings](https://github.com/k9evin/Crashing-LeetCode/tree/master/0271-encode-and-decode-strings) |
+| [0347-top-k-frequent-elements](https://github.com/k9evin/Crashing-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/k9evin/Crashing-LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1306-minimum-absolute-difference](https://github.com/k9evin/Crashing-LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/k9evin/Crashing-LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -28,6 +29,7 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/k9evin/Crashing-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/k9evin/Crashing-LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -36,6 +38,7 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 | [0217-contains-duplicate](https://github.com/k9evin/Crashing-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/k9evin/Crashing-LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/k9evin/Crashing-LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/k9evin/Crashing-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1306-minimum-absolute-difference](https://github.com/k9evin/Crashing-LeetCode/tree/master/1306-minimum-absolute-difference) |
 ## String
 |  |
@@ -66,6 +69,7 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 | [0217-contains-duplicate](https://github.com/k9evin/Crashing-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/k9evin/Crashing-LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/k9evin/Crashing-LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/k9evin/Crashing-LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -135,4 +139,20 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 |  |
 | ------- |
 | [0271-encode-and-decode-strings](https://github.com/k9evin/Crashing-LeetCode/tree/master/0271-encode-and-decode-strings) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/k9evin/Crashing-LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/k9evin/Crashing-LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/k9evin/Crashing-LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/k9evin/Crashing-LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
