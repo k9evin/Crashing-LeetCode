@@ -14,6 +14,7 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 | [0079-word-search](https://github.com/k9evin/Crashing-LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/k9evin/Crashing-LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/k9evin/Crashing-LeetCode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/k9evin/Crashing-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/k9evin/Crashing-LeetCode/tree/master/0268-missing-number) |
 | [0271-encode-and-decode-strings](https://github.com/k9evin/Crashing-LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/k9evin/Crashing-LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -155,4 +156,8 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/k9evin/Crashing-LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/k9evin/Crashing-LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
