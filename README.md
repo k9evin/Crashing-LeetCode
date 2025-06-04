@@ -12,6 +12,7 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 | [0042-trapping-rain-water](https://github.com/k9evin/Crashing-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/k9evin/Crashing-LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/k9evin/Crashing-LeetCode/tree/master/0079-word-search) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/k9evin/Crashing-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/k9evin/Crashing-LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/k9evin/Crashing-LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/k9evin/Crashing-LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/k9evin/Crashing-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/k9evin/Crashing-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/k9evin/Crashing-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0647-palindromic-substrings](https://github.com/k9evin/Crashing-LeetCode/tree/master/0647-palindromic-substrings) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/k9evin/Crashing-LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 ## Two Pointers
