@@ -57,6 +57,7 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 | [0127-word-ladder](https://github.com/k9evin/Crashing-LeetCode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/k9evin/Crashing-LeetCode/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/k9evin/Crashing-LeetCode/tree/master/0271-encode-and-decode-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/k9evin/Crashing-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/k9evin/Crashing-LeetCode/tree/master/0647-palindromic-substrings) |
 ## Backtracking
 |  |
@@ -78,6 +79,7 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 | [0242-valid-anagram](https://github.com/k9evin/Crashing-LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/k9evin/Crashing-LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/k9evin/Crashing-LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/k9evin/Crashing-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -170,4 +172,8 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/k9evin/Crashing-LeetCode/tree/master/0238-product-of-array-except-self) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/k9evin/Crashing-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
