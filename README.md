@@ -9,6 +9,7 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 | [0004-median-of-two-sorted-arrays](https://github.com/k9evin/Crashing-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/k9evin/Crashing-LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/k9evin/Crashing-LeetCode/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/k9evin/Crashing-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/k9evin/Crashing-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/k9evin/Crashing-LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/k9evin/Crashing-LeetCode/tree/master/0079-word-search) |
@@ -27,6 +28,7 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/k9evin/Crashing-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/k9evin/Crashing-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/k9evin/Crashing-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/k9evin/Crashing-LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
