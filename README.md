@@ -13,6 +13,7 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 | [0049-group-anagrams](https://github.com/k9evin/Crashing-LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/k9evin/Crashing-LeetCode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/k9evin/Crashing-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/k9evin/Crashing-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/k9evin/Crashing-LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/k9evin/Crashing-LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/k9evin/Crashing-LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -26,6 +27,7 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/k9evin/Crashing-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/k9evin/Crashing-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/k9evin/Crashing-LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
