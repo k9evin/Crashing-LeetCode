@@ -52,6 +52,7 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 | [0005-longest-palindromic-substring](https://github.com/k9evin/Crashing-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/k9evin/Crashing-LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/k9evin/Crashing-LeetCode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/k9evin/Crashing-LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/k9evin/Crashing-LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/k9evin/Crashing-LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/k9evin/Crashing-LeetCode/tree/master/0127-word-ladder) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/k9evin/Crashing-LeetCode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/k9evin/Crashing-LeetCode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/k9evin/Crashing-LeetCode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/k9evin/Crashing-LeetCode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/k9evin/Crashing-LeetCode/tree/master/0141-linked-list-cycle) |
@@ -175,5 +177,6 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/k9evin/Crashing-LeetCode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/k9evin/Crashing-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
