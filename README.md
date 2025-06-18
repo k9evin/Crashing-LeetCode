@@ -122,6 +122,7 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/k9evin/Crashing-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/k9evin/Crashing-LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/k9evin/Crashing-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/k9evin/Crashing-LeetCode/tree/master/0206-reverse-linked-list) |
@@ -183,5 +184,6 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/k9evin/Crashing-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/k9evin/Crashing-LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
