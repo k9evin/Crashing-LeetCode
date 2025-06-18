@@ -124,6 +124,7 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/k9evin/Crashing-LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/k9evin/Crashing-LeetCode/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/k9evin/Crashing-LeetCode/tree/master/0206-reverse-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -179,4 +180,8 @@ Collection of LeetCode questions using [NeetCode](https://neetcode.io/) to ace t
 | ------- |
 | [0076-minimum-window-substring](https://github.com/k9evin/Crashing-LeetCode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/k9evin/Crashing-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/k9evin/Crashing-LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
