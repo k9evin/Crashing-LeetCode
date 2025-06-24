@@ -4,7 +4,7 @@
  * @return {Function}
  */
 var debounce = function (fn, t) {
-    let timeoutId;
+    let timeoutId = null;
 
     return function (...args) {
         clearTimeout(timeoutId);
