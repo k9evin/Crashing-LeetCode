@@ -16,7 +16,7 @@ var throttle = function (fn, t) {
 
         // set a new timeout, invoke the function, and update the nextTimetoCallFn
         timeoutId = setTimeout(() => {
-            fn(...args);
+            fn.apply(this, args);
             nextTimeToCallFn = Date.now() + t;
         }, delay);
     }
