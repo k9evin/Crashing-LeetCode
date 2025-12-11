@@ -1,0 +1,37 @@
+/*
+ * Problem: 278. First Bad Version
+ * Difficulty: Easy
+ * Link: https://leetcode.com/problems/first-bad-version/submissions/1852695437/
+ * Language: plaintext
+ * Date: 2025-12-11
+ */
+
+# The isBadVersion API is already defined for you.
+# def isBadVersion(version: int) -> bool:
+
+class Solution:
+    def firstBadVersion(self, n: int) -> int:
+        # 1, 2, 3, 4, 5
+        l, r = 0, n  # Using left-closed right-open interval [0, n)
+        
+        # Loop condition l < r maintains the half-open interval invariant
+        while l < r:
+            m = l + (r - l) // 2  # Prevents potential overflow
+            
+            if isBadVersion(m):
+                # m is bad, so first bad version is at m or to the left
+                # Keep m in search space by setting r = m
+                r = m
+            else:
+                # m is good, so first bad version must be to the right
+                # Exclude m by setting l = m + 1
+                l = m + 1
+
+        # When loop exits, l == r and points to first bad version
+        return l
+
+# Time Complexity: O(log n)
+# - Binary search reduces search space by half each iteration
+
+# Space Complexity: O(1)
+# - Only using constant extra space for pointers l, r, m
