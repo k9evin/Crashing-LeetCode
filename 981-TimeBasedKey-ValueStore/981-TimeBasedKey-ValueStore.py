@@ -1,36 +1,31 @@
-# Last updated: 1/1/2026, 11:34:06 PM
+# Last updated: 1/1/2026, 11:34:47 PM
 1class TimeMap:
 2
 3    def __init__(self):
 4        self.store = {}  # {key: [[val, timestamp], [val, timestamp]]}
 5
 6    def set(self, key: str, value: str, timestamp: int) -> None:
-7        if key not in self.store:
-8            self.store[key] = []
-9        self.store[key].append([value, timestamp])
-10
-11    def get(self, key: str, timestamp: int) -> str:
-12        values = self.store.get(key, [])
-13        if not values:
-14            return ""
-15
-16        l, r = 0, len(values) - 1
-17        res = ""
-18        while l <= r:
-19            m = l + (r - l) // 2
-20            if values[m][1] == timestamp:
-21                return values[m][0]
-22            elif values[m][1] < timestamp:
-23                res = values[m][0]
-24                l = m + 1
-25            else:
-26                r = m - 1
-27
-28        return res
-29
+7        # O(1) amortized - append to list for given key
+8        if key not in self.store:
+9            self.store[key] = []
+10        self.store[key].append([value, timestamp])
+11
+12    def get(self, key: str, timestamp: int) -> str:
+13        # O(log n) - binary search where n = number of entries for key
+14        values = self.store.get(key, [])
+15        if not values:
+16            return ""
+17
+18        l, r = 0, len(values) - 1
+19        res = ""  # Track most recent valid value (timestamp <= target)
+20
+21        while l <= r:
+22            m = (l + r) // 2
+23            if values[m][1] <= timestamp:
+24                res = values[m][0]  # Valid candidate found
+25                l = m + 1  # Search right half for more recent valid entry
+26            else:
+27                r = m - 1  # Current timestamp too large, search left half
+28
+29        return res
 30
-31# Your TimeMap object will be instantiated and called as such:
-32# obj = TimeMap()
-33# obj.set(key,value,timestamp)
-34# param_2 = obj.get(key,timestamp)
-35
