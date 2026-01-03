@@ -1,4 +1,4 @@
-# Last updated: 1/2/2026, 10:45:58 PM
+# Last updated: 1/3/2026, 3:17:33 AM
 1class Solution:
 2    def numOfWays(self, n: int) -> int:
 3        # MOD constant for large number handling as required by the problem
@@ -21,3 +21,6 @@
 20        # Return total number of valid configurations modulo MOD
 21        return (A + B) % MOD
 22
+23        # Time Complexity: O(n) - single loop from 2 to n
+24        # Space Complexity: O(1) - only using two variables A and B
+25
