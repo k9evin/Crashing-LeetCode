@@ -1,4 +1,4 @@
-# Last updated: 1/6/2026, 1:11:21 AM
+# Last updated: 1/6/2026, 1:11:46 AM
 1class Solution:
 2    def maxMatrixSum(self, matrix: List[List[int]]) -> int:
 3        neg_count = 0  # Count of negative numbers in the matrix
