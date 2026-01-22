@@ -1,4 +1,4 @@
-# Last updated: 1/21/2026, 10:48:56 PM
+# Last updated: 1/21/2026, 10:49:30 PM
 class Solution:
     def minimumPairRemoval(self, nums: List[int]) -> int:
         def is_sorted(arr):
