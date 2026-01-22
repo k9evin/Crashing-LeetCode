@@ -1,4 +1,4 @@
-# Last updated: 1/21/2026, 10:39:09 PM
+# Last updated: 1/21/2026, 10:41:20 PM
 1class Solution:
 2    def minimumPairRemoval(self, nums: List[int]) -> int:
 3        count = 0
@@ -20,7 +20,7 @@
 19                    target_idx = i - 1
 20
 21            nums[target_idx] = min_sum
-22            nums.pop(target_idx + 1)
+22            nums = nums[: target_idx + 1] + nums[target_idx + 2 :]
 23            count += 1
 24
 25        return count
