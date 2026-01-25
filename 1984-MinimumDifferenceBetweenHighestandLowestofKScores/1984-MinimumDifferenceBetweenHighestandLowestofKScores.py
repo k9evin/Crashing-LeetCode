@@ -1,4 +1,4 @@
-# Last updated: 1/25/2026, 6:38:59 PM
+# Last updated: 1/25/2026, 6:39:05 PM
 1class Solution:
 2    def minimumDifference(self, nums: List[int], k: int) -> int:
 3        # 排序数组，使得相近的分数相邻
