@@ -1,4 +1,4 @@
-# Last updated: 1/16/2026, 8:30:38 AM
+# Last updated: 2/8/2026, 5:44:15 PM
 1# Definition for a binary tree node.
 2# class TreeNode:
 3#     def __init__(self, val=0, left=None, right=None):
